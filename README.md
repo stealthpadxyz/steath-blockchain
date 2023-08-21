@@ -1,14 +1,14 @@
 
 
 <p align="center">
-  <img src="https://shards.dev/wp-content/uploads/2023/06/shards-logo-black.png">
+  <img src="https://pbs.twimg.com/profile_banners/1693099941265387520/1692568640/1500x500">
 </p>
 
 <h4 align="center">
-  <a href="https://shards.dev">Website</a> |
-  <a href="https://twiter.com/shardsdotdev/">Twitter</a> |
-  <a href="https://discord.gg/C8NEd5DuN">Discord</a> |
-  <a href="https://docs.shards.dev">Documentation</a>
+  <a href="https://stealthpad.xyz">Website</a> |
+  <a href="https://twitter.com/stealthpadxyz">Twitter</a> |
+  <a href="https://discord.gg/">Discord</a> |
+  <a href="https://papers.stealthpad.xyz/">Documentation</a>
 </h4>
 
 
